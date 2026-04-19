@@ -1,4 +1,4 @@
-# fiction-editorial
+# fiction-review
 
 `novel-forge` 项目内专用的虚构文学编辑技能包。
 
